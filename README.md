@@ -1,0 +1,52 @@
+# Project Checklist
+
+## Step 1 : Layer 2 Fundamentals
+- [ ] 1.1:ARP Resolution
+- [ ] 1.2:Broadcast Domain
+- [ ] 1.3:MAC Learning
+- [ ] 1.4:Unknown Unicast Flooding
+- [ ] 1.5:VLAN Segmentation
+- [ ] 1.6:Trunk Links
+- [ ] 1.7:Inter‑VLAN Routing
+
+## Step 2 : Layer 3 Fundamentals
+- [ ] 2.1:Subnetting
+- [ ] 2.2:Default Gateway
+- [ ] 2.3:DHCP
+- [ ] 2.4:DNS Resolution
+- [ ] 2.5:NAT
+- [ ] 2.6:PAT (Port Address Translation)
+
+## Step 3 : Routing Fundamentals
+- [ ] 3.1:Static Routing
+- [ ] 3.2:Default Route
+- [ ] 3.3:Multi‑Hop Routing
+- [ ] 3.4:ECMP
+- [ ] 3.5:Route Summarization
+- [ ] 3.6:Routing Loop
+
+
+## Step 4 : Dynamic Routing
+
+## Step 5 : OSPF
+
+## Step 6 : BGP
+
+## Step 7 : Network Security
+- [ ] 7.1:Stateless Firewall
+- [ ] 7.2:Stateful Firewall
+- [ ] 7.3:DMZ
+
+## Step 8 : VPN
+- [ ] 8.1:Site‑to‑Site VPN
+- [ ] 8.2:Remote Access VPN
+- [ ] 8.3:Dynamic Routing over VPN
+
+## Step 9 : Network Architecture
+- [ ] 9.1Campus Hierarchical
+- [ ] 9.2:Data Center Fabric
+- [ ] 9.2:Anycast
+
+## Step 10 : Network Operations
+
+## Step 11 : Final
